@@ -1,0 +1,4 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Jim,Brown,111,true,2018-01-01,2019-01-01,Breakfast
+John,Smith,222,false,2019-02-02,2020-02-02,Lunch
+Jane,Doe,333,true,2020-03-03,2021-03-03,Dinner
